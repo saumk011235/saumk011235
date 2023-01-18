@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saumk011235
 - 👀 I’m interested in Analytics, Impact Finance, and EVERYTHING AI!
-- 🌱 I’m currently learning to apply the applications of Python in the addressing global issues like Climate Change & Global Warming.
+- 🌱 I’m currently learning to apply the applications of Python in the addressing global issues like Climate Change & Global Warming, with a deep interest in healthcare finance.
 - 📫 How to reach me: Email: kotharisaumya30@gmail.com
 
 <!---
