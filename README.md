@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saumk011235
-- 👀 I’m interested in Data Science, Analytics, and EVERYTHING AI!
+- 👀 I’m interested in Analytics, Impact Finance, and EVERYTHING AI!
 - 🌱 I’m currently learning to apply the applications of Python in the addressing global issues like Climate Change & Global Warming.
 - 📫 How to reach me: Email: kotharisaumya30@gmail.com
 
